@@ -34,6 +34,8 @@ const socials = [
 
 /** 
 * This component illustrates the use of both the useRef hook and useEffect hook. 
+
+This line was adde with latest-branch
 */ 
 const Header = () => { 
  const headerRef = useRef(null); 

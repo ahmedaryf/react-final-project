@@ -34,8 +34,6 @@ const socials = [
 
 /** 
 * This component illustrates the use of both the useRef hook and useEffect hook. 
-* The useRef hook is used to create a reference to a DOM element, in 
-
 */ 
 const Header = () => { 
  const headerRef = useRef(null); 

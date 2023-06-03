@@ -34,8 +34,7 @@ const socials = [
 
 /** 
 * This component illustrates the use of both the useRef hook and useEffect hook. 
-* The useRef hook is used to create a reference to a DOM element, in order to tweak the header styles and run a transition animation. 
-* The useEffect hook is used to perform a subscription when the component is mounted and to unsubscribe when the component is unmounted. 
+* The useRef hook is used to create a reference to a DOM element, in 
 
 */ 
 const Header = () => { 
